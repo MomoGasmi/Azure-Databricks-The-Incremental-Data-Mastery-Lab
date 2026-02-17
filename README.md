@@ -13,6 +13,5 @@ Before you begin, ensure you have:
 2. Create a **Resource Group** named `rg-databricks-lab`.
 3. Deploy a **Storage Account (ADLS Gen2)** with "Hierarchical Namespace" enabled.
 
-### Visual Confirmation
-![My Azure Resources](images/azure-resources.png)
-
+## 🏗️ Project Architecture
+![Project Architecture](images/project_Architecture.jpg)
